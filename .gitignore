@@ -1,0 +1,17 @@
+# Source photo folders (large; site uses assets/images only)
+事業雰囲気写真/
+創作物写真/
+
+# Credentials / notes
+ID関係と構想.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+
+# Local previews
+_preview/
